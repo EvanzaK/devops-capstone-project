@@ -1,11 +1,9 @@
-# ci-cd-final-project
+# Tugas Dummy
 
-## Project Overview
-This project demonstrates a CI/CD pipeline using GitHub Actions and OpenShift Pipelines. 
-It includes steps for:
-- Code linting (flake8/ESLint)
-- Unit testing (nose/Jest)
-- Build and deploy using OpenShift Pipelines
-- Cleanup tasks and deployment validation
+Ini adalah proyek dummy untuk tugas menampilkan README dan badge build.
 
-## Project Structure
+## Status Build
+![Build Status](https://github.com/EvanzaK/devops-capstone-project/actions/workflows/build.yml/badge.svg)
+
+## Deskripsi
+Proyek ini hanya untuk keperluan tugas, tidak ada kode nyata.
